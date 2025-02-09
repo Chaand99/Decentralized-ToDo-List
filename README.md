@@ -22,4 +22,4 @@ This project is a **decentralized task management system** built using **Solidit
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/YOUR_USERNAME/Decentralized-ToDo-List.git
-   cd Decentralized-ToDo-List"
+   cd Decentralized-ToDo-List
